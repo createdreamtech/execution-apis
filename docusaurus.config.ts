@@ -12,7 +12,7 @@ const config: Config = {
   url: 'https://ethereum.github.io',
   baseUrl: '/execution-apis/',
 
-  organizationName: 'ethereum',
+  organizationName: 'createdreamtech',
   projectName: 'execution-apis',
 
   onBrokenLinks: 'throw',
