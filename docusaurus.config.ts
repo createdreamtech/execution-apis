@@ -9,10 +9,10 @@ const config: Config = {
 
   /*future: { v4: true },*/
 
-  url: 'https://ethereum.github.io',
+  url: 'https://createdreamtech.github.io',
   baseUrl: '/execution-apis/',
 
-  organizationName: 'createdreamtech',
+  organizationName: 'ethereum',
   projectName: 'execution-apis',
 
   onBrokenLinks: 'throw',
